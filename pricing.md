@@ -5,7 +5,7 @@ description: One-time payment tiers for token deployment - no subscriptions. Bas
 
 # Pricing
 
-TheCoinLab uses one-time payments - no subscriptions or recurring fees. Each tier adds more of the launch toolset.
+TheCoinLab uses one-time payments - no subscriptions or recurring fees. Each tier adds more of the launch toolset. Gas fees on the underlying chain are separate from the platform fee.
 
 ## Basic - EUR 19
 
@@ -19,8 +19,10 @@ Everything in Basic, plus the tax engine, anti-whale limits, airdrop tools, and 
 
 Everything in Advanced, plus the presale module, DEX liquidity assistance, liquidity tools, and priority support.
 
-> Prices reflect what was published on the marketing site at the time this demo was generated - confirm current pricing on TheCoinLab's website before relying on it.
+> Prices reflect what was published on the marketing site when this site was generated - confirm current pricing on TheCoinLab's website before relying on it.
 
-## Next
+## Related
 
-See what each tier unlocks in [Features](features.md), or start with [Getting started](getting-started.md).
+- [Token features](guides/token-features.md)
+- [Getting started](getting-started.md)
+- Back to [docs home](README.md)
